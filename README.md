@@ -24,6 +24,7 @@ My leetcode solutions
 | ------- |
 | [0217-contains-duplicate](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -33,4 +34,13 @@ My leetcode solutions
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
