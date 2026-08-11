@@ -10,6 +10,7 @@ My leetcode solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
@@ -18,6 +19,7 @@ My leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
