@@ -19,6 +19,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [1748-sum-of-unique-elements](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ My leetcode solutions
 | [0242-valid-anagram](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1748-sum-of-unique-elements](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -46,4 +48,5 @@ My leetcode solutions
 | ------- |
 | [0383-ransom-note](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1748-sum-of-unique-elements](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
