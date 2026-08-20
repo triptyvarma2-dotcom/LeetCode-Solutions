@@ -24,6 +24,7 @@ My leetcode solutions
 | [0217-contains-duplicate](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
@@ -44,6 +45,7 @@ My leetcode solutions
 | [0242-valid-anagram](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -65,6 +67,7 @@ My leetcode solutions
 | ------- |
 | [0088-merge-sorted-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
