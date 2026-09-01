@@ -10,7 +10,7 @@ class Solution {
             }
         }
         
-        System.out.println(Arrays.toString(nums));
+        //System.out.println(Arrays.toString(nums));
         
         return i+1;
     }
