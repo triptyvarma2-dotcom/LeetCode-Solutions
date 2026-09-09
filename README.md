@@ -21,6 +21,7 @@ My leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -37,6 +38,7 @@ My leetcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0268-missing-number) |
