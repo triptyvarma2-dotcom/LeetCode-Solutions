@@ -5,17 +5,17 @@ class Solution {
         int high = nums.length-1;
         while(mid<=high){
             if(nums[mid]==0){
-                int temp1=nums[low];
+                int temp=nums[low];
                 nums[low]=nums[mid];
-                nums[mid]=temp1;
+                nums[mid]=temp;
                 low++;
                 mid++;
             }else if(nums[mid]==1){
                 mid++;
             }else{
-                 int temp2=nums[mid];
+                 int temp=nums[mid];
                 nums[mid]=nums[high];
-                nums[high]=temp2;
+                nums[high]=temp;
                 high--;
             }
         }
