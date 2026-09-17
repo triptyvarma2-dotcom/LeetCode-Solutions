@@ -27,6 +27,7 @@ My leetcode solutions
 | [0075-sort-colors](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -41,6 +42,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -55,6 +57,7 @@ My leetcode solutions
 | ------- |
 | [0075-sort-colors](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -74,6 +77,7 @@ My leetcode solutions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
@@ -95,6 +99,7 @@ My leetcode solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -128,4 +133,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
