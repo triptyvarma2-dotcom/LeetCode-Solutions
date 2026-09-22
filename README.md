@@ -6,6 +6,7 @@ My leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Bit Manipulation
@@ -25,6 +26,7 @@ My leetcode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -159,4 +161,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
