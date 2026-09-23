@@ -28,6 +28,7 @@ My leetcode solutions
 | [0031-next-permutation](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -156,6 +157,7 @@ My leetcode solutions
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -165,4 +167,5 @@ My leetcode solutions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
