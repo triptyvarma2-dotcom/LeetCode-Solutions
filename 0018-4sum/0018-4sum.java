@@ -15,7 +15,7 @@ class Solution {
             int k=j+1;
             int l=n-1;
             while(k<l){
-                long sum=nums[i];
+                long sum=(long)nums[i];
                 sum += nums[j];
                 sum +=nums[k];
                 sum +=nums[l];
