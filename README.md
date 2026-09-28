@@ -14,6 +14,7 @@ My leetcode solutions
 | ------- |
 | [0136-single-number](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
@@ -46,6 +47,7 @@ My leetcode solutions
 | [0349-intersection-of-two-arrays](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -65,6 +67,7 @@ My leetcode solutions
 | [0383-ransom-note](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
@@ -81,6 +84,7 @@ My leetcode solutions
 | [0242-valid-anagram](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
