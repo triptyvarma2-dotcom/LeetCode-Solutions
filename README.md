@@ -91,6 +91,7 @@ My leetcode solutions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -195,4 +196,12 @@ My leetcode solutions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
