@@ -55,6 +55,7 @@ My leetcode solutions
 | [1207-unique-number-of-occurrences](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ My leetcode solutions
 | [0645-set-mismatch](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -207,4 +209,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
