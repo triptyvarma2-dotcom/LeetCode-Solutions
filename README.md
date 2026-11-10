@@ -137,6 +137,7 @@ My leetcode solutions
 | ------- |
 | [0035-search-insert-position](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -220,4 +221,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
