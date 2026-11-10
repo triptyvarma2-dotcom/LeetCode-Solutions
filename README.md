@@ -50,6 +50,7 @@ My leetcode solutions
 | [0485-max-consecutive-ones](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -135,6 +136,7 @@ My leetcode solutions
 | ------- |
 | [0268-missing-number](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
