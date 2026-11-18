@@ -79,6 +79,7 @@ My leetcode solutions
 | [0387-first-unique-character-in-a-string](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0981-time-based-key-value-store](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1207-unique-number-of-occurrences](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -109,6 +110,7 @@ My leetcode solutions
 | [0242-valid-anagram](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0981-time-based-key-value-store](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 ## Queue
 |  |
 | ------- |
@@ -150,6 +152,7 @@ My leetcode solutions
 | [0349-intersection-of-two-arrays](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -236,4 +239,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
