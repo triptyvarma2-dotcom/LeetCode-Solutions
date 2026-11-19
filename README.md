@@ -62,6 +62,7 @@ My leetcode solutions
 | [1207-unique-number-of-occurrences](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -101,6 +102,7 @@ My leetcode solutions
 | [0645-set-mismatch](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
@@ -234,6 +236,7 @@ My leetcode solutions
 ## Greedy
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Interactive
 |  |
