@@ -64,6 +64,7 @@ My leetcode solutions
 | [1748-sum-of-unique-elements](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -84,6 +85,7 @@ My leetcode solutions
 | [0981-time-based-key-value-store](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1207-unique-number-of-occurrences](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
 |  |
@@ -114,6 +116,7 @@ My leetcode solutions
 | [0383-ransom-note](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0981-time-based-key-value-store](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Queue
 |  |
 | ------- |
@@ -248,4 +251,12 @@ My leetcode solutions
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
