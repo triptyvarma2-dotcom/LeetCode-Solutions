@@ -116,6 +116,7 @@ My leetcode solutions
 | [0383-ransom-note](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0981-time-based-key-value-store](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Queue
 |  |
