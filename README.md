@@ -68,6 +68,7 @@ My leetcode solutions
 | [3331-find-subtree-sizes-after-changes](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -215,6 +216,7 @@ My leetcode solutions
 | [0118-pascals-triangle](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Simulation
 |  |
 | ------- |
@@ -247,6 +249,7 @@ My leetcode solutions
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Interactive
 |  |
 | ------- |
