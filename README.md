@@ -69,6 +69,7 @@ My leetcode solutions
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ My leetcode solutions
 | [2567-minimum-score-by-changing-two-elements](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## String
 |  |
 | ------- |
@@ -175,6 +177,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -250,6 +253,7 @@ My leetcode solutions
 | [2567-minimum-score-by-changing-two-elements](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/triptyvarma2-dotcom/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Interactive
 |  |
 | ------- |
